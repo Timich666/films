@@ -1,4 +1,4 @@
-const API_KEY = "72ddc290";
+const API_KEY = "2be64e59";
 
 async function fetchData(title) {
     try {
